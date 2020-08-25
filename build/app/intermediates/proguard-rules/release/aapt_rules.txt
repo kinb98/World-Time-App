@@ -1,0 +1,6 @@
+# Referenced at /home/kinjalk/Applications/World_Timer/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/kinjalk/Applications/World_Timer/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:24
+-keep class com.example.World_Timer.MainActivity { <init>(); }
+# Referenced at /home/kinjalk/Applications/World_Timer/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class io.flutter.app.FlutterApplication { <init>(); }
